@@ -1,0 +1,7 @@
+edu/csumb/cst438/projectdb/entities/User.class
+edu/csumb/cst438/projectdb/entities/Product.class
+edu/csumb/cst438/projectdb/ProjectController.class
+edu/csumb/cst438/projectdb/IUserRepository.class
+edu/csumb/cst438/projectdb/ProjectDbSeeder.class
+edu/csumb/cst438/projectdb/IProductRepository.class
+edu/csumb/cst438/projectdb/ProjectdbApplication.class
