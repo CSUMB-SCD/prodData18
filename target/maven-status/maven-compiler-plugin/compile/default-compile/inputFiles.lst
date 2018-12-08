@@ -1,7 +1,7 @@
-/Users/ErosGonzalez/Desktop/Code/SE/team18GroupProject/db/src/main/java/edu/csumb/cst438/projectdb/ProjectdbApplication.java
-/Users/ErosGonzalez/Desktop/Code/SE/team18GroupProject/db/src/main/java/edu/csumb/cst438/projectdb/ProjectDbSeeder.java
-/Users/ErosGonzalez/Desktop/Code/SE/team18GroupProject/db/src/main/java/edu/csumb/cst438/projectdb/entities/Product.java
-/Users/ErosGonzalez/Desktop/Code/SE/team18GroupProject/db/src/main/java/edu/csumb/cst438/projectdb/ProjectController.java
-/Users/ErosGonzalez/Desktop/Code/SE/team18GroupProject/db/src/main/java/edu/csumb/cst438/projectdb/IUserRepository.java
-/Users/ErosGonzalez/Desktop/Code/SE/team18GroupProject/db/src/main/java/edu/csumb/cst438/projectdb/entities/User.java
-/Users/ErosGonzalez/Desktop/Code/SE/team18GroupProject/db/src/main/java/edu/csumb/cst438/projectdb/IProductRepository.java
+/Users/ErosGonzalez/Desktop/prodData18/src/main/java/edu/csumb/cst438/projectdb/ProjectController.java
+/Users/ErosGonzalez/Desktop/prodData18/src/main/java/edu/csumb/cst438/projectdb/entities/Product.java
+/Users/ErosGonzalez/Desktop/prodData18/src/main/java/edu/csumb/cst438/projectdb/IUserRepository.java
+/Users/ErosGonzalez/Desktop/prodData18/src/main/java/edu/csumb/cst438/projectdb/entities/User.java
+/Users/ErosGonzalez/Desktop/prodData18/src/main/java/edu/csumb/cst438/projectdb/ProjectDbSeeder.java
+/Users/ErosGonzalez/Desktop/prodData18/src/main/java/edu/csumb/cst438/projectdb/IProductRepository.java
+/Users/ErosGonzalez/Desktop/prodData18/src/main/java/edu/csumb/cst438/projectdb/ProjectdbApplication.java
